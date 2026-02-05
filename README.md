@@ -6,27 +6,34 @@ Sou Kayllany Lara da Silva Oliveira, tenho 21 anos e sou natural do Rio de Janei
 Sou recém-formada no curso de Bacharelado em Ciência e Tecnologia pela Ilum Escola de Ciências, instituição vinculada ao CNPEM (Centro Nacional de Energia e Materiais).
 Tenho grande interesse por tecnologia, automação e ciência, e gosto de unir a prática à programação sempre que possível, buscando aplicar o conhecimento teórico em projetos reais.
 
-<a href="https://github.com/KayllanyLara?tab=repositories&sort=stargazers">
-    <img 
-        alt="Total de estrelas" 
-        title="Total de estrelas GitHub" 
-        src="https://custom-icon-badges.demolab.com/github/stars/KayllanyLara?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-     />
-</a>
-<a href="https://github.com/KayllanyLara?tab=followers">
-    <img 
-        alt="Seguidores" 
-        title="Me siga no GitHub" 
-        src="https://custom-icon-badges.demolab.com/github/followers/KayllanyLara?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-     />
-</a>
+<p align="left">
+     <a href="https://github.com/KayllanyLara?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/KayllanyLara?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        />
+    </a>
+    <a href="https://github.com/KayllanyLara?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/KayllanyLara?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
 </p>
-
 ---
 
 ### 🤖 Linguagens e Tecnologias
 
-
+<img 
+    align="left" 
+    alt="Unity" 
+    title="Unity"
+    width="30px" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" />
+          
 <img 
     align="left" 
     alt="Git" 
@@ -35,6 +42,56 @@ Tenho grande interesse por tecnologia, automação e ciência, e gosto de unir a
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+
+<img
+    align="left" 
+    alt="VSconde" 
+    title="VSconde"
+    width="30px" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+          
+<img
+    align="left" 
+    alt="VisualStudio" 
+    title="VisualStudio"
+    width="30px" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />
+          
+<img 
+    align="left" 
+    alt="Anaconda" 
+    title="Anaconda"
+    width="30px" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" />      
+
+<img
+    align="left" 
+    alt="C" 
+    title="C"
+    width="30px" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+
+          
+<img 
+    align="left" 
+    alt="C++" 
+    title="C++"
+    width="30px" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+          
+<img
+    align="left" 
+    alt="C#" 
+    title="C#"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+          
 <img 
     align="left" 
     alt="Python" 
@@ -46,23 +103,3 @@ Tenho grande interesse por tecnologia, automação e ciência, e gosto de unir a
 
 <br/>
 <br/>
-
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=KayllanyLara&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=KayllanyLara&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
