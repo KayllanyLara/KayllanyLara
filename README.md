@@ -6,21 +6,20 @@ Sou Kayllany Lara da Silva Oliveira, tenho 21 anos e sou natural do Rio de Janei
 Sou recém-formada no curso de Bacharelado em Ciência e Tecnologia pela Ilum Escola de Ciências, instituição vinculada ao CNPEM (Centro Nacional de Energia e Materiais).
 Tenho grande interesse por tecnologia, automação e ciência, e gosto de unir a prática à programação sempre que possível, buscando aplicar o conhecimento teórico em projetos reais.
 
-
-    <a href="https://github.com/KayllanyLara?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/KayllanyLara?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/KayllanyLara?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/KayllanyLara?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
+<a href="https://github.com/KayllanyLara?tab=repositories&sort=stargazers">
+    <img 
+        alt="Total de estrelas" 
+        title="Total de estrelas GitHub" 
+        src="https://custom-icon-badges.demolab.com/github/stars/KayllanyLara?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+     />
+</a>
+<a href="https://github.com/KayllanyLara?tab=followers">
+    <img 
+        alt="Seguidores" 
+        title="Me siga no GitHub" 
+        src="https://custom-icon-badges.demolab.com/github/followers/KayllanyLara?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+     />
+</a>
 </p>
 
 ---
